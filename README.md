@@ -189,8 +189,7 @@ docker exec -it nginx-lb ping backend-db
 ✅ Implement secure, production-like multi-network architectures.
 ✅ Validate and troubleshoot network communication using `docker inspect` and `ping`.
 
----
-```
+
 <img width="1366" height="768" alt="Screenshot (472)" src="https://github.com/user-attachments/assets/7c5468e8-4872-49ee-b367-ea82ba7a2d6f" />
 <img width="1366" height="768" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/fe2c1d10-c375-4b09-bc72-ca1f93a74468" />
 <img width="1366" height="768" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/1d64ff51-1bc5-491f-8087-53f9b0eb3b0a" />
